@@ -1,17 +1,15 @@
-import webbrowser
+'''A program that prsesnts movie's trailers through a web browser'''
 
 
 class Movie():
-	'''
-	it's a class that takes several perameters to provide a movie's details.
-	'''
-	def __init__(self, title, poster_image_url, trailer_youtube_url):
-		self.title = title.title()
-		self.poster_image_url = poster_image_url
-		self.trailer_youtube_url = trailer_youtube_url
+    '''
+    Attributes:
+    title (str): title of the movie.
+    poster_image_url (str): URL link for the movies's poster image.
+    trailer_youtube_url (str): URL link for the movie trailer.
+    '''
 
-	def get_movie_trailer(self):
-		webbrowser.open(self.trailer_youtube_url)
-
-	# def poster(self):
-	# 	open(self.poster_image_url)
+    def __init__(self, title, poster_image_url, trailer_youtube_url):
+        self.title = title.title()
+        self.poster_image_url = poster_image_url
+        self.trailer_youtube_url = trailer_youtube_url
