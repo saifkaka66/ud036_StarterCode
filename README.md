@@ -12,7 +12,7 @@ movie-trailer-website is a simple script to present a bunch of movie trailers wi
 	    - write on your shell this code `winpty entertainment_center.py`
 
 2. throuh opening the included file `fresh_tomatoes.html`.
-	note: if you're having truoble with your browser check [google chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwlqLdBRCKARIsAPxTGaVuraeNO-5MW1DNooIDb7Jhjj1TuNweG3zpB-_x4-kaTWQNT9dW27YaAjmsEALw_wcB&gclsrc=aw.ds&dclid=CMCA1ZK01d0CFVKNGwodtLoAcA)
+	note: if you're having trouble with your browser check [google chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwlqLdBRCKARIsAPxTGaVuraeNO-5MW1DNooIDb7Jhjj1TuNweG3zpB-_x4-kaTWQNT9dW27YaAjmsEALw_wcB&gclsrc=aw.ds&dclid=CMCA1ZK01d0CFVKNGwodtLoAcA)
 
 
 ## requirements information
